@@ -1,0 +1,15 @@
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\PracticaPOO\PracticaPOO\bin\Debug\net7.0\PracticaPOO.exe
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\PracticaPOO\PracticaPOO\bin\Debug\net7.0\PracticaPOO.deps.json
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\PracticaPOO\PracticaPOO\bin\Debug\net7.0\PracticaPOO.runtimeconfig.json
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\PracticaPOO\PracticaPOO\bin\Debug\net7.0\PracticaPOO.dll
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\PracticaPOO\PracticaPOO\bin\Debug\net7.0\PracticaPOO.pdb
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\PracticaPOO\PracticaPOO\obj\Debug\net7.0\PracticaPOO.csproj.AssemblyReference.cache
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\PracticaPOO\PracticaPOO\obj\Debug\net7.0\PracticaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\PracticaPOO\PracticaPOO\obj\Debug\net7.0\PracticaPOO.AssemblyInfoInputs.cache
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\PracticaPOO\PracticaPOO\obj\Debug\net7.0\PracticaPOO.AssemblyInfo.cs
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\PracticaPOO\PracticaPOO\obj\Debug\net7.0\PracticaPOO.csproj.CoreCompileInputs.cache
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\PracticaPOO\PracticaPOO\obj\Debug\net7.0\PracticaPOO.dll
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\PracticaPOO\PracticaPOO\obj\Debug\net7.0\refint\PracticaPOO.dll
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\PracticaPOO\PracticaPOO\obj\Debug\net7.0\PracticaPOO.pdb
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\PracticaPOO\PracticaPOO\obj\Debug\net7.0\PracticaPOO.genruntimeconfig.cache
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\PracticaPOO\PracticaPOO\obj\Debug\net7.0\ref\PracticaPOO.dll
