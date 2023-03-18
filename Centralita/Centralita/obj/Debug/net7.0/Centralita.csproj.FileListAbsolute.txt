@@ -1,0 +1,15 @@
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\Centralita\Centralita\obj\Debug\net7.0\Centralita.csproj.AssemblyReference.cache
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\Centralita\Centralita\obj\Debug\net7.0\Centralita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\Centralita\Centralita\obj\Debug\net7.0\Centralita.AssemblyInfoInputs.cache
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\Centralita\Centralita\obj\Debug\net7.0\Centralita.AssemblyInfo.cs
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\Centralita\Centralita\obj\Debug\net7.0\Centralita.csproj.CoreCompileInputs.cache
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\Centralita\Centralita\bin\Debug\net7.0\Centralita.exe
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\Centralita\Centralita\bin\Debug\net7.0\Centralita.deps.json
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\Centralita\Centralita\bin\Debug\net7.0\Centralita.runtimeconfig.json
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\Centralita\Centralita\bin\Debug\net7.0\Centralita.dll
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\Centralita\Centralita\bin\Debug\net7.0\Centralita.pdb
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\Centralita\Centralita\obj\Debug\net7.0\Centralita.dll
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\Centralita\Centralita\obj\Debug\net7.0\refint\Centralita.dll
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\Centralita\Centralita\obj\Debug\net7.0\Centralita.pdb
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\Centralita\Centralita\obj\Debug\net7.0\Centralita.genruntimeconfig.cache
+C:\Users\Pedro L. Rosario\OneDrive - Universidad Iberoamericana\2023-C1\Programacion 1\Projects\Centralita\Centralita\obj\Debug\net7.0\ref\Centralita.dll
